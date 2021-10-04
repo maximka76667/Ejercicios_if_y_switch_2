@@ -18,7 +18,7 @@ public class Ej6 {
 
 		System.out.println("Numero: " + numero_de_letra);
 		System.out.println("Letra: " + letra);
-		System.out.println("DNI: " + letra + DNI);
+		System.out.println("DNI completo: " + letra + DNI);
 
 		entrada.close();
 	}
